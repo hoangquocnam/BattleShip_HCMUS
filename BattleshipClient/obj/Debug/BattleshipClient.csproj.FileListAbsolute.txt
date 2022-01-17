@@ -1,0 +1,165 @@
+C:\Users\Hoang Quoc Nam\Desktop\New folder\tamle\Battleship\BattleshipClient\bin\Debug\BattleshipClient.exe.config
+C:\Users\Hoang Quoc Nam\Desktop\New folder\tamle\Battleship\BattleshipClient\bin\Debug\BattleshipClient.exe
+C:\Users\Hoang Quoc Nam\Desktop\New folder\tamle\Battleship\BattleshipClient\bin\Debug\BattleshipClient.pdb
+C:\Users\Hoang Quoc Nam\Desktop\New folder\tamle\Battleship\BattleshipClient\obj\Debug\BattleshipClient.csprojAssemblyReference.cache
+C:\Users\Hoang Quoc Nam\Desktop\New folder\tamle\Battleship\BattleshipClient\obj\Debug\BattleshipClient.FormConnect.resources
+C:\Users\Hoang Quoc Nam\Desktop\New folder\tamle\Battleship\BattleshipClient\obj\Debug\BattleshipClient.FormMain.resources
+C:\Users\Hoang Quoc Nam\Desktop\New folder\tamle\Battleship\BattleshipClient\obj\Debug\BattleshipClient.Properties.Resources.resources
+C:\Users\Hoang Quoc Nam\Desktop\New folder\tamle\Battleship\BattleshipClient\obj\Debug\BattleshipClient.UCDashboard.resources
+C:\Users\Hoang Quoc Nam\Desktop\New folder\tamle\Battleship\BattleshipClient\obj\Debug\BattleshipClient.UCLogin.resources
+C:\Users\Hoang Quoc Nam\Desktop\New folder\tamle\Battleship\BattleshipClient\obj\Debug\BattleshipClient.UCProfile.resources
+C:\Users\Hoang Quoc Nam\Desktop\New folder\tamle\Battleship\BattleshipClient\obj\Debug\BattleshipClient.UCSearch.resources
+C:\Users\Hoang Quoc Nam\Desktop\New folder\tamle\Battleship\BattleshipClient\obj\Debug\BattleshipClient.UCSignUp.resources
+C:\Users\Hoang Quoc Nam\Desktop\New folder\tamle\Battleship\BattleshipClient\obj\Debug\BattleshipClient.csproj.GenerateResource.cache
+C:\Users\Hoang Quoc Nam\Desktop\New folder\tamle\Battleship\BattleshipClient\obj\Debug\BattleshipClient.csproj.CoreCompileInputs.cache
+C:\Users\Hoang Quoc Nam\Desktop\New folder\tamle\Battleship\BattleshipClient\obj\Debug\BattleshipClient.exe
+C:\Users\Hoang Quoc Nam\Desktop\New folder\tamle\Battleship\BattleshipClient\obj\Debug\BattleshipClient.pdb
+C:\Users\Hoang Quoc Nam\Desktop\New folder\tamle\Battleship\BattleshipClient\obj\Debug\BattleshipClient.FormPlaying.resources
+C:\Users\Hoang Quoc Nam\Desktop\battleship\tamle\Battleship\BattleshipClient\bin\Debug\BattleshipClient.exe.config
+C:\Users\Hoang Quoc Nam\Desktop\battleship\tamle\Battleship\BattleshipClient\bin\Debug\BattleshipClient.exe
+C:\Users\Hoang Quoc Nam\Desktop\battleship\tamle\Battleship\BattleshipClient\bin\Debug\BattleshipClient.pdb
+C:\Users\Hoang Quoc Nam\Desktop\battleship\tamle\Battleship\BattleshipClient\obj\Debug\BattleshipClient.csprojAssemblyReference.cache
+C:\Users\Hoang Quoc Nam\Desktop\battleship\tamle\Battleship\BattleshipClient\obj\Debug\BattleshipClient.FormConnect.resources
+C:\Users\Hoang Quoc Nam\Desktop\battleship\tamle\Battleship\BattleshipClient\obj\Debug\BattleshipClient.FormMain.resources
+C:\Users\Hoang Quoc Nam\Desktop\battleship\tamle\Battleship\BattleshipClient\obj\Debug\BattleshipClient.FormPlaying.resources
+C:\Users\Hoang Quoc Nam\Desktop\battleship\tamle\Battleship\BattleshipClient\obj\Debug\BattleshipClient.Properties.Resources.resources
+C:\Users\Hoang Quoc Nam\Desktop\battleship\tamle\Battleship\BattleshipClient\obj\Debug\BattleshipClient.UCDashboard.resources
+C:\Users\Hoang Quoc Nam\Desktop\battleship\tamle\Battleship\BattleshipClient\obj\Debug\BattleshipClient.UCLogin.resources
+C:\Users\Hoang Quoc Nam\Desktop\battleship\tamle\Battleship\BattleshipClient\obj\Debug\BattleshipClient.UCProfile.resources
+C:\Users\Hoang Quoc Nam\Desktop\battleship\tamle\Battleship\BattleshipClient\obj\Debug\BattleshipClient.UCSearch.resources
+C:\Users\Hoang Quoc Nam\Desktop\battleship\tamle\Battleship\BattleshipClient\obj\Debug\BattleshipClient.UCSignUp.resources
+C:\Users\Hoang Quoc Nam\Desktop\battleship\tamle\Battleship\BattleshipClient\obj\Debug\BattleshipClient.csproj.GenerateResource.cache
+C:\Users\Hoang Quoc Nam\Desktop\battleship\tamle\Battleship\BattleshipClient\obj\Debug\BattleshipClient.csproj.CoreCompileInputs.cache
+C:\Users\Hoang Quoc Nam\Desktop\battleship\tamle\Battleship\BattleshipClient\obj\Debug\BattleshipClient.exe
+C:\Users\Hoang Quoc Nam\Desktop\battleship\tamle\Battleship\BattleshipClient\obj\Debug\BattleshipClient.pdb
+C:\Users\Hoang Quoc Nam\Desktop\battleship\nam\Battleship\BattleshipClient\obj\Debug\BattleshipClient.csprojAssemblyReference.cache
+C:\Users\Hoang Quoc Nam\Desktop\battleship\nam\Battleship\BattleshipClient\obj\Debug\BattleshipClient.FormConnect.resources
+C:\Users\Hoang Quoc Nam\Desktop\battleship\nam\Battleship\BattleshipClient\obj\Debug\BattleshipClient.FormMain.resources
+C:\Users\Hoang Quoc Nam\Desktop\battleship\nam\Battleship\BattleshipClient\obj\Debug\BattleshipClient.FormPlaying.resources
+C:\Users\Hoang Quoc Nam\Desktop\battleship\nam\Battleship\BattleshipClient\obj\Debug\BattleshipClient.Properties.Resources.resources
+C:\Users\Hoang Quoc Nam\Desktop\battleship\nam\Battleship\BattleshipClient\obj\Debug\BattleshipClient.UCDashboard.resources
+C:\Users\Hoang Quoc Nam\Desktop\battleship\nam\Battleship\BattleshipClient\obj\Debug\BattleshipClient.UCLogin.resources
+C:\Users\Hoang Quoc Nam\Desktop\battleship\nam\Battleship\BattleshipClient\obj\Debug\BattleshipClient.UCProfile.resources
+C:\Users\Hoang Quoc Nam\Desktop\battleship\nam\Battleship\BattleshipClient\obj\Debug\BattleshipClient.UCSearch.resources
+C:\Users\Hoang Quoc Nam\Desktop\battleship\nam\Battleship\BattleshipClient\obj\Debug\BattleshipClient.UCSignUp.resources
+C:\Users\Hoang Quoc Nam\Desktop\battleship\nam\Battleship\BattleshipClient\obj\Debug\BattleshipClient.csproj.GenerateResource.cache
+C:\Users\Hoang Quoc Nam\Desktop\battleship\nam\Battleship\BattleshipClient\obj\Debug\BattleshipClient.csproj.CoreCompileInputs.cache
+C:\Users\Hoang Quoc Nam\Desktop\battleship\nam\Battleship\BattleshipClient\obj\Debug\BattleshipClient.FormTutorial.resources
+C:\Users\DELL\Desktop\nam (1)\nam\Battleship\BattleshipClient\bin\Debug\x`.exe.config
+C:\Users\DELL\Desktop\nam (1)\nam\Battleship\BattleshipClient\bin\Debug\x`.exe
+C:\Users\DELL\Desktop\nam (1)\nam\Battleship\BattleshipClient\bin\Debug\x`.pdb
+C:\Users\DELL\Desktop\nam (1)\nam\Battleship\BattleshipClient\obj\Debug\BattleshipClient.csproj.AssemblyReference.cache
+C:\Users\DELL\Desktop\nam (1)\nam\Battleship\BattleshipClient\obj\Debug\BattleshipClient.FormConnect.resources
+C:\Users\DELL\Desktop\nam (1)\nam\Battleship\BattleshipClient\obj\Debug\BattleshipClient.FormMain.resources
+C:\Users\DELL\Desktop\nam (1)\nam\Battleship\BattleshipClient\obj\Debug\BattleshipClient.FormPlaying.resources
+C:\Users\DELL\Desktop\nam (1)\nam\Battleship\BattleshipClient\obj\Debug\BattleshipClient.FormTutorial.resources
+C:\Users\DELL\Desktop\nam (1)\nam\Battleship\BattleshipClient\obj\Debug\BattleshipClient.Properties.Resources.resources
+C:\Users\DELL\Desktop\nam (1)\nam\Battleship\BattleshipClient\obj\Debug\BattleshipClient.UCDashboard.resources
+C:\Users\DELL\Desktop\nam (1)\nam\Battleship\BattleshipClient\obj\Debug\BattleshipClient.UCLogin.resources
+C:\Users\DELL\Desktop\nam (1)\nam\Battleship\BattleshipClient\obj\Debug\BattleshipClient.UCProfile.resources
+C:\Users\DELL\Desktop\nam (1)\nam\Battleship\BattleshipClient\obj\Debug\BattleshipClient.UCSearch.resources
+C:\Users\DELL\Desktop\nam (1)\nam\Battleship\BattleshipClient\obj\Debug\BattleshipClient.UCSignUp.resources
+C:\Users\DELL\Desktop\nam (1)\nam\Battleship\BattleshipClient\obj\Debug\BattleshipClient.csproj.GenerateResource.cache
+C:\Users\DELL\Desktop\nam (1)\nam\Battleship\BattleshipClient\obj\Debug\BattleshipClient.csproj.CoreCompileInputs.cache
+C:\Users\DELL\Desktop\nam (1)\nam\Battleship\BattleshipClient\obj\Debug\x`.exe
+C:\Users\DELL\Desktop\nam (1)\nam\Battleship\BattleshipClient\obj\Debug\x`.pdb
+C:\Users\Hoang Quoc Nam\Desktop\nam\Battleship\BattleshipClient\bin\Debug\x`.exe.config
+C:\Users\Hoang Quoc Nam\Desktop\nam\Battleship\BattleshipClient\bin\Debug\x`.exe
+C:\Users\Hoang Quoc Nam\Desktop\nam\Battleship\BattleshipClient\bin\Debug\x`.pdb
+C:\Users\Hoang Quoc Nam\Desktop\nam\Battleship\BattleshipClient\obj\Debug\BattleshipClient.csprojAssemblyReference.cache
+C:\Users\Hoang Quoc Nam\Desktop\nam\Battleship\BattleshipClient\obj\Debug\BattleshipClient.FormConnect.resources
+C:\Users\Hoang Quoc Nam\Desktop\nam\Battleship\BattleshipClient\obj\Debug\BattleshipClient.FormMain.resources
+C:\Users\Hoang Quoc Nam\Desktop\nam\Battleship\BattleshipClient\obj\Debug\BattleshipClient.FormPlaying.resources
+C:\Users\Hoang Quoc Nam\Desktop\nam\Battleship\BattleshipClient\obj\Debug\BattleshipClient.FormTutorial.resources
+C:\Users\Hoang Quoc Nam\Desktop\nam\Battleship\BattleshipClient\obj\Debug\BattleshipClient.Properties.Resources.resources
+C:\Users\Hoang Quoc Nam\Desktop\nam\Battleship\BattleshipClient\obj\Debug\BattleshipClient.UCDashboard.resources
+C:\Users\Hoang Quoc Nam\Desktop\nam\Battleship\BattleshipClient\obj\Debug\BattleshipClient.UCLogin.resources
+C:\Users\Hoang Quoc Nam\Desktop\nam\Battleship\BattleshipClient\obj\Debug\BattleshipClient.UCProfile.resources
+C:\Users\Hoang Quoc Nam\Desktop\nam\Battleship\BattleshipClient\obj\Debug\BattleshipClient.UCSearch.resources
+C:\Users\Hoang Quoc Nam\Desktop\nam\Battleship\BattleshipClient\obj\Debug\BattleshipClient.UCSignUp.resources
+C:\Users\Hoang Quoc Nam\Desktop\nam\Battleship\BattleshipClient\obj\Debug\BattleshipClient.csproj.GenerateResource.cache
+C:\Users\Hoang Quoc Nam\Desktop\nam\Battleship\BattleshipClient\obj\Debug\BattleshipClient.csproj.CoreCompileInputs.cache
+C:\Users\Hoang Quoc Nam\Desktop\nam\Battleship\BattleshipClient\obj\Debug\x`.exe
+C:\Users\Hoang Quoc Nam\Desktop\nam\Battleship\BattleshipClient\obj\Debug\x`.pdb
+C:\Users\Hoang Quoc Nam\Desktop\battleship\nam\Battleship\BattleshipClient\obj\Debug\BattleshipClient.FormWinLose.resources
+C:\Users\Hoang Quoc Nam\Desktop\battleship\nam\Battleship\BattleshipClient\bin\Debug\BattleshipClient.exe.config
+C:\Users\Hoang Quoc Nam\Desktop\battleship\nam\Battleship\BattleshipClient\bin\Debug\BattleshipClient.exe
+C:\Users\Hoang Quoc Nam\Desktop\battleship\nam\Battleship\BattleshipClient\bin\Debug\BattleshipClient.pdb
+C:\Users\Hoang Quoc Nam\Desktop\battleship\nam\Battleship\BattleshipClient\obj\Debug\BattleshipClient.exe
+C:\Users\Hoang Quoc Nam\Desktop\battleship\nam\Battleship\BattleshipClient\obj\Debug\BattleshipClient.pdb
+C:\Users\DELL\Desktop\Battleship\BattleshipClient\bin\Debug\BattleshipClient.exe.config
+C:\Users\DELL\Desktop\Battleship\BattleshipClient\bin\Debug\BattleshipClient.exe
+C:\Users\DELL\Desktop\Battleship\BattleshipClient\bin\Debug\BattleshipClient.pdb
+C:\Users\DELL\Desktop\Battleship\BattleshipClient\obj\Debug\BattleshipClient.csproj.AssemblyReference.cache
+C:\Users\DELL\Desktop\Battleship\BattleshipClient\obj\Debug\BattleshipClient.FormConnect.resources
+C:\Users\DELL\Desktop\Battleship\BattleshipClient\obj\Debug\BattleshipClient.FormMain.resources
+C:\Users\DELL\Desktop\Battleship\BattleshipClient\obj\Debug\BattleshipClient.FormPlaying.resources
+C:\Users\DELL\Desktop\Battleship\BattleshipClient\obj\Debug\BattleshipClient.FormTutorial.resources
+C:\Users\DELL\Desktop\Battleship\BattleshipClient\obj\Debug\BattleshipClient.FormWinLose.resources
+C:\Users\DELL\Desktop\Battleship\BattleshipClient\obj\Debug\BattleshipClient.Properties.Resources.resources
+C:\Users\DELL\Desktop\Battleship\BattleshipClient\obj\Debug\BattleshipClient.UCDashboard.resources
+C:\Users\DELL\Desktop\Battleship\BattleshipClient\obj\Debug\BattleshipClient.UCLogin.resources
+C:\Users\DELL\Desktop\Battleship\BattleshipClient\obj\Debug\BattleshipClient.UCProfile.resources
+C:\Users\DELL\Desktop\Battleship\BattleshipClient\obj\Debug\BattleshipClient.UCSearch.resources
+C:\Users\DELL\Desktop\Battleship\BattleshipClient\obj\Debug\BattleshipClient.UCSignUp.resources
+C:\Users\DELL\Desktop\Battleship\BattleshipClient\obj\Debug\BattleshipClient.csproj.GenerateResource.cache
+C:\Users\DELL\Desktop\Battleship\BattleshipClient\obj\Debug\BattleshipClient.csproj.CoreCompileInputs.cache
+C:\Users\DELL\Desktop\Battleship\BattleshipClient\obj\Debug\BattleshipClient.exe
+C:\Users\DELL\Desktop\Battleship\BattleshipClient\obj\Debug\BattleshipClient.pdb
+C:\Users\Hoang Quoc Nam\Desktop\Battleship\BattleshipClient\bin\Debug\BattleshipClient.exe.config
+C:\Users\Hoang Quoc Nam\Desktop\Battleship\BattleshipClient\bin\Debug\BattleshipClient.exe
+C:\Users\Hoang Quoc Nam\Desktop\Battleship\BattleshipClient\bin\Debug\BattleshipClient.pdb
+C:\Users\Hoang Quoc Nam\Desktop\Battleship\BattleshipClient\obj\Debug\BattleshipClient.csprojAssemblyReference.cache
+C:\Users\Hoang Quoc Nam\Desktop\Battleship\BattleshipClient\obj\Debug\BattleshipClient.FormConnect.resources
+C:\Users\Hoang Quoc Nam\Desktop\Battleship\BattleshipClient\obj\Debug\BattleshipClient.FormMain.resources
+C:\Users\Hoang Quoc Nam\Desktop\Battleship\BattleshipClient\obj\Debug\BattleshipClient.FormPlaying.resources
+C:\Users\Hoang Quoc Nam\Desktop\Battleship\BattleshipClient\obj\Debug\BattleshipClient.FormTutorial.resources
+C:\Users\Hoang Quoc Nam\Desktop\Battleship\BattleshipClient\obj\Debug\BattleshipClient.FormWinLose.resources
+C:\Users\Hoang Quoc Nam\Desktop\Battleship\BattleshipClient\obj\Debug\BattleshipClient.Properties.Resources.resources
+C:\Users\Hoang Quoc Nam\Desktop\Battleship\BattleshipClient\obj\Debug\BattleshipClient.UCDashboard.resources
+C:\Users\Hoang Quoc Nam\Desktop\Battleship\BattleshipClient\obj\Debug\BattleshipClient.UCLogin.resources
+C:\Users\Hoang Quoc Nam\Desktop\Battleship\BattleshipClient\obj\Debug\BattleshipClient.UCProfile.resources
+C:\Users\Hoang Quoc Nam\Desktop\Battleship\BattleshipClient\obj\Debug\BattleshipClient.UCSearch.resources
+C:\Users\Hoang Quoc Nam\Desktop\Battleship\BattleshipClient\obj\Debug\BattleshipClient.UCSignUp.resources
+C:\Users\Hoang Quoc Nam\Desktop\Battleship\BattleshipClient\obj\Debug\BattleshipClient.csproj.GenerateResource.cache
+C:\Users\Hoang Quoc Nam\Desktop\Battleship\BattleshipClient\obj\Debug\BattleshipClient.csproj.CoreCompileInputs.cache
+C:\Users\Hoang Quoc Nam\Desktop\Battleship\BattleshipClient\obj\Debug\BattleshipClient.exe
+C:\Users\Hoang Quoc Nam\Desktop\Battleship\BattleshipClient\obj\Debug\BattleshipClient.pdb
+C:\Users\Hoang Quoc Nam\Dropbox\PC\Desktop\Battleship\Settings\BattleshipClient\bin\Debug\BattleshipClient.exe.config
+C:\Users\Hoang Quoc Nam\Dropbox\PC\Desktop\Battleship\Settings\BattleshipClient\bin\Debug\BattleshipClient.exe
+C:\Users\Hoang Quoc Nam\Dropbox\PC\Desktop\Battleship\Settings\BattleshipClient\bin\Debug\BattleshipClient.pdb
+C:\Users\Hoang Quoc Nam\Dropbox\PC\Desktop\Battleship\Settings\BattleshipClient\obj\Debug\BattleshipClient.csprojAssemblyReference.cache
+C:\Users\Hoang Quoc Nam\Dropbox\PC\Desktop\Battleship\Settings\BattleshipClient\obj\Debug\BattleshipClient.FormConnect.resources
+C:\Users\Hoang Quoc Nam\Dropbox\PC\Desktop\Battleship\Settings\BattleshipClient\obj\Debug\BattleshipClient.FormMain.resources
+C:\Users\Hoang Quoc Nam\Dropbox\PC\Desktop\Battleship\Settings\BattleshipClient\obj\Debug\BattleshipClient.FormPlaying.resources
+C:\Users\Hoang Quoc Nam\Dropbox\PC\Desktop\Battleship\Settings\BattleshipClient\obj\Debug\BattleshipClient.FormTutorial.resources
+C:\Users\Hoang Quoc Nam\Dropbox\PC\Desktop\Battleship\Settings\BattleshipClient\obj\Debug\BattleshipClient.FormWinLose.resources
+C:\Users\Hoang Quoc Nam\Dropbox\PC\Desktop\Battleship\Settings\BattleshipClient\obj\Debug\BattleshipClient.Properties.Resources.resources
+C:\Users\Hoang Quoc Nam\Dropbox\PC\Desktop\Battleship\Settings\BattleshipClient\obj\Debug\BattleshipClient.UCDashboard.resources
+C:\Users\Hoang Quoc Nam\Dropbox\PC\Desktop\Battleship\Settings\BattleshipClient\obj\Debug\BattleshipClient.UCLogin.resources
+C:\Users\Hoang Quoc Nam\Dropbox\PC\Desktop\Battleship\Settings\BattleshipClient\obj\Debug\BattleshipClient.UCProfile.resources
+C:\Users\Hoang Quoc Nam\Dropbox\PC\Desktop\Battleship\Settings\BattleshipClient\obj\Debug\BattleshipClient.UCSearch.resources
+C:\Users\Hoang Quoc Nam\Dropbox\PC\Desktop\Battleship\Settings\BattleshipClient\obj\Debug\BattleshipClient.UCSignUp.resources
+C:\Users\Hoang Quoc Nam\Dropbox\PC\Desktop\Battleship\Settings\BattleshipClient\obj\Debug\BattleshipClient.csproj.GenerateResource.cache
+C:\Users\Hoang Quoc Nam\Dropbox\PC\Desktop\Battleship\Settings\BattleshipClient\obj\Debug\BattleshipClient.csproj.CoreCompileInputs.cache
+C:\Users\Hoang Quoc Nam\Dropbox\PC\Desktop\Battleship\Settings\BattleshipClient\obj\Debug\BattleshipClient.exe
+C:\Users\Hoang Quoc Nam\Dropbox\PC\Desktop\Battleship\Settings\BattleshipClient\obj\Debug\BattleshipClient.pdb
+C:\Users\Hoang Quoc Nam\Dropbox (Old)\PC\Desktop\Battleship\Settings\BattleshipClient\bin\Debug\BattleshipClient.exe.config
+C:\Users\Hoang Quoc Nam\Dropbox (Old)\PC\Desktop\Battleship\Settings\BattleshipClient\bin\Debug\BattleshipClient.exe
+C:\Users\Hoang Quoc Nam\Dropbox (Old)\PC\Desktop\Battleship\Settings\BattleshipClient\bin\Debug\BattleshipClient.pdb
+C:\Users\Hoang Quoc Nam\Dropbox (Old)\PC\Desktop\Battleship\Settings\BattleshipClient\obj\Debug\BattleshipClient.csprojAssemblyReference.cache
+C:\Users\Hoang Quoc Nam\Dropbox (Old)\PC\Desktop\Battleship\Settings\BattleshipClient\obj\Debug\BattleshipClient.FormConnect.resources
+C:\Users\Hoang Quoc Nam\Dropbox (Old)\PC\Desktop\Battleship\Settings\BattleshipClient\obj\Debug\BattleshipClient.FormMain.resources
+C:\Users\Hoang Quoc Nam\Dropbox (Old)\PC\Desktop\Battleship\Settings\BattleshipClient\obj\Debug\BattleshipClient.FormPlaying.resources
+C:\Users\Hoang Quoc Nam\Dropbox (Old)\PC\Desktop\Battleship\Settings\BattleshipClient\obj\Debug\BattleshipClient.FormTutorial.resources
+C:\Users\Hoang Quoc Nam\Dropbox (Old)\PC\Desktop\Battleship\Settings\BattleshipClient\obj\Debug\BattleshipClient.FormWinLose.resources
+C:\Users\Hoang Quoc Nam\Dropbox (Old)\PC\Desktop\Battleship\Settings\BattleshipClient\obj\Debug\BattleshipClient.Properties.Resources.resources
+C:\Users\Hoang Quoc Nam\Dropbox (Old)\PC\Desktop\Battleship\Settings\BattleshipClient\obj\Debug\BattleshipClient.UCDashboard.resources
+C:\Users\Hoang Quoc Nam\Dropbox (Old)\PC\Desktop\Battleship\Settings\BattleshipClient\obj\Debug\BattleshipClient.UCLogin.resources
+C:\Users\Hoang Quoc Nam\Dropbox (Old)\PC\Desktop\Battleship\Settings\BattleshipClient\obj\Debug\BattleshipClient.UCProfile.resources
+C:\Users\Hoang Quoc Nam\Dropbox (Old)\PC\Desktop\Battleship\Settings\BattleshipClient\obj\Debug\BattleshipClient.UCSearch.resources
+C:\Users\Hoang Quoc Nam\Dropbox (Old)\PC\Desktop\Battleship\Settings\BattleshipClient\obj\Debug\BattleshipClient.UCSignUp.resources
+C:\Users\Hoang Quoc Nam\Dropbox (Old)\PC\Desktop\Battleship\Settings\BattleshipClient\obj\Debug\BattleshipClient.csproj.GenerateResource.cache
+C:\Users\Hoang Quoc Nam\Dropbox (Old)\PC\Desktop\Battleship\Settings\BattleshipClient\obj\Debug\BattleshipClient.csproj.CoreCompileInputs.cache
+C:\Users\Hoang Quoc Nam\Dropbox (Old)\PC\Desktop\Battleship\Settings\BattleshipClient\obj\Debug\BattleshipClient.exe
+C:\Users\Hoang Quoc Nam\Dropbox (Old)\PC\Desktop\Battleship\Settings\BattleshipClient\obj\Debug\BattleshipClient.pdb

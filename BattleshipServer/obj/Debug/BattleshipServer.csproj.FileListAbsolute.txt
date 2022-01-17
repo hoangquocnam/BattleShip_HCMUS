@@ -1,0 +1,126 @@
+C:\Users\Hoang Quoc Nam\Desktop\New folder\tamle\Battleship\BattleshipServer\bin\Debug\Database.db
+C:\Users\Hoang Quoc Nam\Desktop\New folder\tamle\Battleship\BattleshipServer\bin\Debug\BattleshipServer.exe.config
+C:\Users\Hoang Quoc Nam\Desktop\New folder\tamle\Battleship\BattleshipServer\bin\Debug\BattleshipServer.exe
+C:\Users\Hoang Quoc Nam\Desktop\New folder\tamle\Battleship\BattleshipServer\bin\Debug\BattleshipServer.pdb
+C:\Users\Hoang Quoc Nam\Desktop\New folder\tamle\Battleship\BattleshipServer\bin\Debug\System.Data.SQLite.dll
+C:\Users\Hoang Quoc Nam\Desktop\New folder\tamle\Battleship\BattleshipServer\bin\Debug\System.Data.SQLite.xml
+C:\Users\Hoang Quoc Nam\Desktop\New folder\tamle\Battleship\BattleshipServer\obj\Debug\BattleshipServer.csprojAssemblyReference.cache
+C:\Users\Hoang Quoc Nam\Desktop\New folder\tamle\Battleship\BattleshipServer\obj\Debug\BattleshipServer.FormMain.resources
+C:\Users\Hoang Quoc Nam\Desktop\New folder\tamle\Battleship\BattleshipServer\obj\Debug\BattleshipServer.Properties.Resources.resources
+C:\Users\Hoang Quoc Nam\Desktop\New folder\tamle\Battleship\BattleshipServer\obj\Debug\BattleshipServer.csproj.GenerateResource.cache
+C:\Users\Hoang Quoc Nam\Desktop\New folder\tamle\Battleship\BattleshipServer\obj\Debug\BattleshipServer.csproj.CoreCompileInputs.cache
+C:\Users\Hoang Quoc Nam\Desktop\New folder\tamle\Battleship\BattleshipServer\obj\Debug\BattleshipServer.csproj.CopyComplete
+C:\Users\Hoang Quoc Nam\Desktop\New folder\tamle\Battleship\BattleshipServer\obj\Debug\BattleshipServer.exe
+C:\Users\Hoang Quoc Nam\Desktop\New folder\tamle\Battleship\BattleshipServer\obj\Debug\BattleshipServer.pdb
+C:\Users\Hoang Quoc Nam\Desktop\battleship\tamle\Battleship\BattleshipServer\bin\Debug\Database.db
+C:\Users\Hoang Quoc Nam\Desktop\battleship\tamle\Battleship\BattleshipServer\bin\Debug\BattleshipServer.exe.config
+C:\Users\Hoang Quoc Nam\Desktop\battleship\tamle\Battleship\BattleshipServer\bin\Debug\BattleshipServer.exe
+C:\Users\Hoang Quoc Nam\Desktop\battleship\tamle\Battleship\BattleshipServer\bin\Debug\BattleshipServer.pdb
+C:\Users\Hoang Quoc Nam\Desktop\battleship\tamle\Battleship\BattleshipServer\bin\Debug\System.Data.SQLite.dll
+C:\Users\Hoang Quoc Nam\Desktop\battleship\tamle\Battleship\BattleshipServer\bin\Debug\System.Data.SQLite.xml
+C:\Users\Hoang Quoc Nam\Desktop\battleship\tamle\Battleship\BattleshipServer\obj\Debug\BattleshipServer.csprojAssemblyReference.cache
+C:\Users\Hoang Quoc Nam\Desktop\battleship\tamle\Battleship\BattleshipServer\obj\Debug\BattleshipServer.FormMain.resources
+C:\Users\Hoang Quoc Nam\Desktop\battleship\tamle\Battleship\BattleshipServer\obj\Debug\BattleshipServer.Properties.Resources.resources
+C:\Users\Hoang Quoc Nam\Desktop\battleship\tamle\Battleship\BattleshipServer\obj\Debug\BattleshipServer.csproj.GenerateResource.cache
+C:\Users\Hoang Quoc Nam\Desktop\battleship\tamle\Battleship\BattleshipServer\obj\Debug\BattleshipServer.csproj.CoreCompileInputs.cache
+C:\Users\Hoang Quoc Nam\Desktop\battleship\tamle\Battleship\BattleshipServer\obj\Debug\BattleshipServer.csproj.CopyComplete
+C:\Users\Hoang Quoc Nam\Desktop\battleship\tamle\Battleship\BattleshipServer\obj\Debug\BattleshipServer.exe
+C:\Users\Hoang Quoc Nam\Desktop\battleship\tamle\Battleship\BattleshipServer\obj\Debug\BattleshipServer.pdb
+C:\Users\Hoang Quoc Nam\Desktop\battleship\nam\Battleship\BattleshipServer\bin\Debug\Database.db
+C:\Users\Hoang Quoc Nam\Desktop\battleship\nam\Battleship\BattleshipServer\bin\Debug\BattleshipServer.exe.config
+C:\Users\Hoang Quoc Nam\Desktop\battleship\nam\Battleship\BattleshipServer\bin\Debug\BattleshipServer.exe
+C:\Users\Hoang Quoc Nam\Desktop\battleship\nam\Battleship\BattleshipServer\bin\Debug\BattleshipServer.pdb
+C:\Users\Hoang Quoc Nam\Desktop\battleship\nam\Battleship\BattleshipServer\bin\Debug\System.Data.SQLite.dll
+C:\Users\Hoang Quoc Nam\Desktop\battleship\nam\Battleship\BattleshipServer\bin\Debug\System.Data.SQLite.xml
+C:\Users\Hoang Quoc Nam\Desktop\battleship\nam\Battleship\BattleshipServer\obj\Debug\BattleshipServer.csprojAssemblyReference.cache
+C:\Users\Hoang Quoc Nam\Desktop\battleship\nam\Battleship\BattleshipServer\obj\Debug\BattleshipServer.FormMain.resources
+C:\Users\Hoang Quoc Nam\Desktop\battleship\nam\Battleship\BattleshipServer\obj\Debug\BattleshipServer.Properties.Resources.resources
+C:\Users\Hoang Quoc Nam\Desktop\battleship\nam\Battleship\BattleshipServer\obj\Debug\BattleshipServer.csproj.GenerateResource.cache
+C:\Users\Hoang Quoc Nam\Desktop\battleship\nam\Battleship\BattleshipServer\obj\Debug\BattleshipServer.csproj.CoreCompileInputs.cache
+C:\Users\Hoang Quoc Nam\Desktop\battleship\nam\Battleship\BattleshipServer\obj\Debug\BattleshipServer.csproj.CopyComplete
+C:\Users\Hoang Quoc Nam\Desktop\battleship\nam\Battleship\BattleshipServer\obj\Debug\BattleshipServer.exe
+C:\Users\Hoang Quoc Nam\Desktop\battleship\nam\Battleship\BattleshipServer\obj\Debug\BattleshipServer.pdb
+C:\Users\DELL\Desktop\nam (1)\nam\Battleship\BattleshipServer\bin\Debug\Database.db
+C:\Users\DELL\Desktop\nam (1)\nam\Battleship\BattleshipServer\bin\Debug\BattleshipServer.exe.config
+C:\Users\DELL\Desktop\nam (1)\nam\Battleship\BattleshipServer\bin\Debug\BattleshipServer.exe
+C:\Users\DELL\Desktop\nam (1)\nam\Battleship\BattleshipServer\bin\Debug\BattleshipServer.pdb
+C:\Users\DELL\Desktop\nam (1)\nam\Battleship\BattleshipServer\bin\Debug\System.Data.SQLite.dll
+C:\Users\DELL\Desktop\nam (1)\nam\Battleship\BattleshipServer\bin\Debug\System.Data.SQLite.xml
+C:\Users\DELL\Desktop\nam (1)\nam\Battleship\BattleshipServer\obj\Debug\BattleshipServer.csproj.AssemblyReference.cache
+C:\Users\DELL\Desktop\nam (1)\nam\Battleship\BattleshipServer\obj\Debug\BattleshipServer.FormMain.resources
+C:\Users\DELL\Desktop\nam (1)\nam\Battleship\BattleshipServer\obj\Debug\BattleshipServer.Properties.Resources.resources
+C:\Users\DELL\Desktop\nam (1)\nam\Battleship\BattleshipServer\obj\Debug\BattleshipServer.csproj.GenerateResource.cache
+C:\Users\DELL\Desktop\nam (1)\nam\Battleship\BattleshipServer\obj\Debug\BattleshipServer.csproj.CoreCompileInputs.cache
+C:\Users\DELL\Desktop\nam (1)\nam\Battleship\BattleshipServer\obj\Debug\BattleshipServer.csproj.CopyComplete
+C:\Users\DELL\Desktop\nam (1)\nam\Battleship\BattleshipServer\obj\Debug\BattleshipServer.exe
+C:\Users\DELL\Desktop\nam (1)\nam\Battleship\BattleshipServer\obj\Debug\BattleshipServer.pdb
+C:\Users\DELL\Desktop\Battleship\BattleshipServer\bin\Debug\Database.db
+C:\Users\DELL\Desktop\Battleship\BattleshipServer\bin\Debug\BattleshipServer.exe.config
+C:\Users\DELL\Desktop\Battleship\BattleshipServer\bin\Debug\BattleshipServer.exe
+C:\Users\DELL\Desktop\Battleship\BattleshipServer\bin\Debug\BattleshipServer.pdb
+C:\Users\DELL\Desktop\Battleship\BattleshipServer\bin\Debug\System.Data.SQLite.dll
+C:\Users\DELL\Desktop\Battleship\BattleshipServer\bin\Debug\System.Data.SQLite.xml
+C:\Users\DELL\Desktop\Battleship\BattleshipServer\obj\Debug\BattleshipServer.csproj.AssemblyReference.cache
+C:\Users\DELL\Desktop\Battleship\BattleshipServer\obj\Debug\BattleshipServer.FormMain.resources
+C:\Users\DELL\Desktop\Battleship\BattleshipServer\obj\Debug\BattleshipServer.Properties.Resources.resources
+C:\Users\DELL\Desktop\Battleship\BattleshipServer\obj\Debug\BattleshipServer.csproj.GenerateResource.cache
+C:\Users\DELL\Desktop\Battleship\BattleshipServer\obj\Debug\BattleshipServer.csproj.CoreCompileInputs.cache
+C:\Users\DELL\Desktop\Battleship\BattleshipServer\obj\Debug\BattleshipServer.csproj.CopyComplete
+C:\Users\DELL\Desktop\Battleship\BattleshipServer\obj\Debug\BattleshipServer.exe
+C:\Users\DELL\Desktop\Battleship\BattleshipServer\obj\Debug\BattleshipServer.pdb
+C:\Users\Hoang Quoc Nam\Desktop\Battleship\BattleshipServer\bin\Debug\Database.db
+C:\Users\Hoang Quoc Nam\Desktop\Battleship\BattleshipServer\bin\Debug\BattleshipServer.exe.config
+C:\Users\Hoang Quoc Nam\Desktop\Battleship\BattleshipServer\bin\Debug\BattleshipServer.exe
+C:\Users\Hoang Quoc Nam\Desktop\Battleship\BattleshipServer\bin\Debug\BattleshipServer.pdb
+C:\Users\Hoang Quoc Nam\Desktop\Battleship\BattleshipServer\bin\Debug\System.Data.SQLite.dll
+C:\Users\Hoang Quoc Nam\Desktop\Battleship\BattleshipServer\bin\Debug\System.Data.SQLite.xml
+C:\Users\Hoang Quoc Nam\Desktop\Battleship\BattleshipServer\obj\Debug\BattleshipServer.csprojAssemblyReference.cache
+C:\Users\Hoang Quoc Nam\Desktop\Battleship\BattleshipServer\obj\Debug\BattleshipServer.FormMain.resources
+C:\Users\Hoang Quoc Nam\Desktop\Battleship\BattleshipServer\obj\Debug\BattleshipServer.Properties.Resources.resources
+C:\Users\Hoang Quoc Nam\Desktop\Battleship\BattleshipServer\obj\Debug\BattleshipServer.csproj.GenerateResource.cache
+C:\Users\Hoang Quoc Nam\Desktop\Battleship\BattleshipServer\obj\Debug\BattleshipServer.csproj.CoreCompileInputs.cache
+C:\Users\Hoang Quoc Nam\Desktop\Battleship\BattleshipServer\obj\Debug\BattleshipServer.csproj.CopyComplete
+C:\Users\Hoang Quoc Nam\Desktop\Battleship\BattleshipServer\obj\Debug\BattleshipServer.exe
+C:\Users\Hoang Quoc Nam\Desktop\Battleship\BattleshipServer\obj\Debug\BattleshipServer.pdb
+C:\Users\DELL\Downloads\Battleship\Battleship\BattleshipServer\bin\Debug\Database.db
+C:\Users\DELL\Downloads\Battleship\Battleship\BattleshipServer\bin\Debug\BattleshipServer.exe.config
+C:\Users\DELL\Downloads\Battleship\Battleship\BattleshipServer\bin\Debug\BattleshipServer.exe
+C:\Users\DELL\Downloads\Battleship\Battleship\BattleshipServer\bin\Debug\BattleshipServer.pdb
+C:\Users\DELL\Downloads\Battleship\Battleship\BattleshipServer\bin\Debug\System.Data.SQLite.dll
+C:\Users\DELL\Downloads\Battleship\Battleship\BattleshipServer\bin\Debug\System.Data.SQLite.xml
+C:\Users\DELL\Downloads\Battleship\Battleship\BattleshipServer\obj\Debug\BattleshipServer.csproj.AssemblyReference.cache
+C:\Users\DELL\Downloads\Battleship\Battleship\BattleshipServer\obj\Debug\BattleshipServer.FormMain.resources
+C:\Users\DELL\Downloads\Battleship\Battleship\BattleshipServer\obj\Debug\BattleshipServer.Properties.Resources.resources
+C:\Users\DELL\Downloads\Battleship\Battleship\BattleshipServer\obj\Debug\BattleshipServer.csproj.GenerateResource.cache
+C:\Users\DELL\Downloads\Battleship\Battleship\BattleshipServer\obj\Debug\BattleshipServer.csproj.CoreCompileInputs.cache
+C:\Users\DELL\Downloads\Battleship\Battleship\BattleshipServer\obj\Debug\BattleshipServer.csproj.CopyComplete
+C:\Users\DELL\Downloads\Battleship\Battleship\BattleshipServer\obj\Debug\BattleshipServer.exe
+C:\Users\DELL\Downloads\Battleship\Battleship\BattleshipServer\obj\Debug\BattleshipServer.pdb
+C:\Users\Hoang Quoc Nam\Dropbox\PC\Desktop\Battleship\Settings\BattleshipServer\bin\Debug\Database.db
+C:\Users\Hoang Quoc Nam\Dropbox\PC\Desktop\Battleship\Settings\BattleshipServer\bin\Debug\BattleshipServer.exe.config
+C:\Users\Hoang Quoc Nam\Dropbox\PC\Desktop\Battleship\Settings\BattleshipServer\bin\Debug\BattleshipServer.exe
+C:\Users\Hoang Quoc Nam\Dropbox\PC\Desktop\Battleship\Settings\BattleshipServer\bin\Debug\BattleshipServer.pdb
+C:\Users\Hoang Quoc Nam\Dropbox\PC\Desktop\Battleship\Settings\BattleshipServer\bin\Debug\System.Data.SQLite.dll
+C:\Users\Hoang Quoc Nam\Dropbox\PC\Desktop\Battleship\Settings\BattleshipServer\bin\Debug\System.Data.SQLite.xml
+C:\Users\Hoang Quoc Nam\Dropbox\PC\Desktop\Battleship\Settings\BattleshipServer\obj\Debug\BattleshipServer.csprojAssemblyReference.cache
+C:\Users\Hoang Quoc Nam\Dropbox\PC\Desktop\Battleship\Settings\BattleshipServer\obj\Debug\BattleshipServer.FormMain.resources
+C:\Users\Hoang Quoc Nam\Dropbox\PC\Desktop\Battleship\Settings\BattleshipServer\obj\Debug\BattleshipServer.Properties.Resources.resources
+C:\Users\Hoang Quoc Nam\Dropbox\PC\Desktop\Battleship\Settings\BattleshipServer\obj\Debug\BattleshipServer.csproj.GenerateResource.cache
+C:\Users\Hoang Quoc Nam\Dropbox\PC\Desktop\Battleship\Settings\BattleshipServer\obj\Debug\BattleshipServer.csproj.CoreCompileInputs.cache
+C:\Users\Hoang Quoc Nam\Dropbox\PC\Desktop\Battleship\Settings\BattleshipServer\obj\Debug\BattleshipServer.csproj.CopyComplete
+C:\Users\Hoang Quoc Nam\Dropbox\PC\Desktop\Battleship\Settings\BattleshipServer\obj\Debug\BattleshipServer.exe
+C:\Users\Hoang Quoc Nam\Dropbox\PC\Desktop\Battleship\Settings\BattleshipServer\obj\Debug\BattleshipServer.pdb
+C:\Users\Hoang Quoc Nam\Dropbox (Old)\PC\Desktop\Battleship\Settings\BattleshipServer\bin\Debug\Database.db
+C:\Users\Hoang Quoc Nam\Dropbox (Old)\PC\Desktop\Battleship\Settings\BattleshipServer\bin\Debug\BattleshipServer.exe.config
+C:\Users\Hoang Quoc Nam\Dropbox (Old)\PC\Desktop\Battleship\Settings\BattleshipServer\bin\Debug\BattleshipServer.exe
+C:\Users\Hoang Quoc Nam\Dropbox (Old)\PC\Desktop\Battleship\Settings\BattleshipServer\bin\Debug\BattleshipServer.pdb
+C:\Users\Hoang Quoc Nam\Dropbox (Old)\PC\Desktop\Battleship\Settings\BattleshipServer\bin\Debug\System.Data.SQLite.dll
+C:\Users\Hoang Quoc Nam\Dropbox (Old)\PC\Desktop\Battleship\Settings\BattleshipServer\bin\Debug\System.Data.SQLite.xml
+C:\Users\Hoang Quoc Nam\Dropbox (Old)\PC\Desktop\Battleship\Settings\BattleshipServer\obj\Debug\BattleshipServer.csprojAssemblyReference.cache
+C:\Users\Hoang Quoc Nam\Dropbox (Old)\PC\Desktop\Battleship\Settings\BattleshipServer\obj\Debug\BattleshipServer.FormMain.resources
+C:\Users\Hoang Quoc Nam\Dropbox (Old)\PC\Desktop\Battleship\Settings\BattleshipServer\obj\Debug\BattleshipServer.Properties.Resources.resources
+C:\Users\Hoang Quoc Nam\Dropbox (Old)\PC\Desktop\Battleship\Settings\BattleshipServer\obj\Debug\BattleshipServer.csproj.GenerateResource.cache
+C:\Users\Hoang Quoc Nam\Dropbox (Old)\PC\Desktop\Battleship\Settings\BattleshipServer\obj\Debug\BattleshipServer.csproj.CoreCompileInputs.cache
+C:\Users\Hoang Quoc Nam\Dropbox (Old)\PC\Desktop\Battleship\Settings\BattleshipServer\obj\Debug\BattleshipServer.csproj.CopyComplete
+C:\Users\Hoang Quoc Nam\Dropbox (Old)\PC\Desktop\Battleship\Settings\BattleshipServer\obj\Debug\BattleshipServer.exe
+C:\Users\Hoang Quoc Nam\Dropbox (Old)\PC\Desktop\Battleship\Settings\BattleshipServer\obj\Debug\BattleshipServer.pdb

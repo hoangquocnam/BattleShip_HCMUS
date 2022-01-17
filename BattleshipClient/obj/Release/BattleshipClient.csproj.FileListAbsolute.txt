@@ -1,0 +1,38 @@
+C:\Users\Hoang Quoc Nam\Desktop\battleship\nam\Battleship\BattleshipClient\bin\Release\x`.exe.config
+C:\Users\Hoang Quoc Nam\Desktop\battleship\nam\Battleship\BattleshipClient\bin\Release\x`.exe
+C:\Users\Hoang Quoc Nam\Desktop\battleship\nam\Battleship\BattleshipClient\bin\Release\x`.pdb
+C:\Users\Hoang Quoc Nam\Desktop\battleship\nam\Battleship\BattleshipClient\obj\Release\BattleshipClient.csprojAssemblyReference.cache
+C:\Users\Hoang Quoc Nam\Desktop\battleship\nam\Battleship\BattleshipClient\obj\Release\BattleshipClient.FormConnect.resources
+C:\Users\Hoang Quoc Nam\Desktop\battleship\nam\Battleship\BattleshipClient\obj\Release\BattleshipClient.FormMain.resources
+C:\Users\Hoang Quoc Nam\Desktop\battleship\nam\Battleship\BattleshipClient\obj\Release\BattleshipClient.FormPlaying.resources
+C:\Users\Hoang Quoc Nam\Desktop\battleship\nam\Battleship\BattleshipClient\obj\Release\BattleshipClient.FormTutorial.resources
+C:\Users\Hoang Quoc Nam\Desktop\battleship\nam\Battleship\BattleshipClient\obj\Release\BattleshipClient.FormWinLose.resources
+C:\Users\Hoang Quoc Nam\Desktop\battleship\nam\Battleship\BattleshipClient\obj\Release\BattleshipClient.Properties.Resources.resources
+C:\Users\Hoang Quoc Nam\Desktop\battleship\nam\Battleship\BattleshipClient\obj\Release\BattleshipClient.UCDashboard.resources
+C:\Users\Hoang Quoc Nam\Desktop\battleship\nam\Battleship\BattleshipClient\obj\Release\BattleshipClient.UCLogin.resources
+C:\Users\Hoang Quoc Nam\Desktop\battleship\nam\Battleship\BattleshipClient\obj\Release\BattleshipClient.UCProfile.resources
+C:\Users\Hoang Quoc Nam\Desktop\battleship\nam\Battleship\BattleshipClient\obj\Release\BattleshipClient.UCSearch.resources
+C:\Users\Hoang Quoc Nam\Desktop\battleship\nam\Battleship\BattleshipClient\obj\Release\BattleshipClient.UCSignUp.resources
+C:\Users\Hoang Quoc Nam\Desktop\battleship\nam\Battleship\BattleshipClient\obj\Release\BattleshipClient.csproj.GenerateResource.cache
+C:\Users\Hoang Quoc Nam\Desktop\battleship\nam\Battleship\BattleshipClient\obj\Release\BattleshipClient.csproj.CoreCompileInputs.cache
+C:\Users\Hoang Quoc Nam\Desktop\battleship\nam\Battleship\BattleshipClient\obj\Release\x`.exe
+C:\Users\Hoang Quoc Nam\Desktop\battleship\nam\Battleship\BattleshipClient\obj\Release\x`.pdb
+C:\Users\DELL\Desktop\Battleship\BattleshipClient\bin\Release\BattleshipClient.exe.config
+C:\Users\DELL\Desktop\Battleship\BattleshipClient\bin\Release\BattleshipClient.exe
+C:\Users\DELL\Desktop\Battleship\BattleshipClient\bin\Release\BattleshipClient.pdb
+C:\Users\DELL\Desktop\Battleship\BattleshipClient\obj\Release\BattleshipClient.csproj.AssemblyReference.cache
+C:\Users\DELL\Desktop\Battleship\BattleshipClient\obj\Release\BattleshipClient.FormConnect.resources
+C:\Users\DELL\Desktop\Battleship\BattleshipClient\obj\Release\BattleshipClient.FormMain.resources
+C:\Users\DELL\Desktop\Battleship\BattleshipClient\obj\Release\BattleshipClient.FormPlaying.resources
+C:\Users\DELL\Desktop\Battleship\BattleshipClient\obj\Release\BattleshipClient.FormTutorial.resources
+C:\Users\DELL\Desktop\Battleship\BattleshipClient\obj\Release\BattleshipClient.FormWinLose.resources
+C:\Users\DELL\Desktop\Battleship\BattleshipClient\obj\Release\BattleshipClient.Properties.Resources.resources
+C:\Users\DELL\Desktop\Battleship\BattleshipClient\obj\Release\BattleshipClient.UCDashboard.resources
+C:\Users\DELL\Desktop\Battleship\BattleshipClient\obj\Release\BattleshipClient.UCLogin.resources
+C:\Users\DELL\Desktop\Battleship\BattleshipClient\obj\Release\BattleshipClient.UCProfile.resources
+C:\Users\DELL\Desktop\Battleship\BattleshipClient\obj\Release\BattleshipClient.UCSearch.resources
+C:\Users\DELL\Desktop\Battleship\BattleshipClient\obj\Release\BattleshipClient.UCSignUp.resources
+C:\Users\DELL\Desktop\Battleship\BattleshipClient\obj\Release\BattleshipClient.csproj.GenerateResource.cache
+C:\Users\DELL\Desktop\Battleship\BattleshipClient\obj\Release\BattleshipClient.csproj.CoreCompileInputs.cache
+C:\Users\DELL\Desktop\Battleship\BattleshipClient\obj\Release\BattleshipClient.exe
+C:\Users\DELL\Desktop\Battleship\BattleshipClient\obj\Release\BattleshipClient.pdb

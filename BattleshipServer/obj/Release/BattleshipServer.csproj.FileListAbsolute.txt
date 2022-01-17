@@ -1,0 +1,14 @@
+C:\Users\DELL\Desktop\Battleship\BattleshipServer\bin\Release\Database.db
+C:\Users\DELL\Desktop\Battleship\BattleshipServer\bin\Release\BattleshipServer.exe.config
+C:\Users\DELL\Desktop\Battleship\BattleshipServer\bin\Release\BattleshipServer.exe
+C:\Users\DELL\Desktop\Battleship\BattleshipServer\bin\Release\BattleshipServer.pdb
+C:\Users\DELL\Desktop\Battleship\BattleshipServer\bin\Release\System.Data.SQLite.dll
+C:\Users\DELL\Desktop\Battleship\BattleshipServer\bin\Release\System.Data.SQLite.xml
+C:\Users\DELL\Desktop\Battleship\BattleshipServer\obj\Release\BattleshipServer.csproj.AssemblyReference.cache
+C:\Users\DELL\Desktop\Battleship\BattleshipServer\obj\Release\BattleshipServer.FormMain.resources
+C:\Users\DELL\Desktop\Battleship\BattleshipServer\obj\Release\BattleshipServer.Properties.Resources.resources
+C:\Users\DELL\Desktop\Battleship\BattleshipServer\obj\Release\BattleshipServer.csproj.GenerateResource.cache
+C:\Users\DELL\Desktop\Battleship\BattleshipServer\obj\Release\BattleshipServer.csproj.CoreCompileInputs.cache
+C:\Users\DELL\Desktop\Battleship\BattleshipServer\obj\Release\BattleshipServer.csproj.CopyComplete
+C:\Users\DELL\Desktop\Battleship\BattleshipServer\obj\Release\BattleshipServer.exe
+C:\Users\DELL\Desktop\Battleship\BattleshipServer\obj\Release\BattleshipServer.pdb
